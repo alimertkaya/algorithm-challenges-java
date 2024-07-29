@@ -7,3 +7,4 @@
 | 003 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)                            | [AVeryBigSum.java](./algorithm-challenges-java/AVeryBigSum.java)                    |
 | 004 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true)                            | [DiagonalDifference.java](./algorithm-challenges-java/DiagonalDifference.java)                    |
 | 005 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true)                            | [PlusMinus.java](./algorithm-challenges-java/PlusMinus.java)                    |
+| 006 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true)                            | [SimpleArraySum.java](./algorithm-challenges-java/SimpleArraySum.java)                    |
