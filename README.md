@@ -10,4 +10,5 @@
 | 006 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true)                            | [SimpleArraySum.java](./algorithm-challenges-java/SimpleArraySum.java)                    |
 | 007 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true)                            | [MiniMaxSum.java](./algorithm-challenges-java/MiniMaxSum.java)                    |
 | 008 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)                            | [BirthdayCakeCandles.java](./algorithm-challenges-java/BirthdayCakeCandles.java)                    |
+| 009 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)                            | [TimeConversion.java](./algorithm-challenges-java/TimeConversion.java)                    |
 
