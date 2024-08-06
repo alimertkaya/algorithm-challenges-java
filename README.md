@@ -12,5 +12,6 @@
 | 008 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)                            | [BirthdayCakeCandles.java](./algorithm-challenges-java/BirthdayCakeCandles.java)                    |
 | 009 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)                            | [TimeConversion.java](./algorithm-challenges-java/TimeConversion.java)                    |
 | 010 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)                            | [GradingStudents.java](./algorithm-challenges-java/GradingStudents.java)                    |
+| 011 | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true)                            | [AppleAndOrange.java](./algorithm-challenges-java/AppleAndOrange.java)                    |
 
 
