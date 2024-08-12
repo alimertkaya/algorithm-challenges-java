@@ -14,4 +14,4 @@
 | 010 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)                            | [GradingStudents.java](./algorithm-challenges-java/GradingStudents.java)                    |
 | 011 | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true)                            | [AppleAndOrange.java](./algorithm-challenges-java/AppleAndOrange.java)                    |
 | 012 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true)                            | [Staircase.java](./algorithm-challenges-java/Staircase.java)                    |
-
+| 013 | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true)                            | [NumberLineJumps.java](./algorithm-challenges-java/NumberLineJumps.java)                    |
