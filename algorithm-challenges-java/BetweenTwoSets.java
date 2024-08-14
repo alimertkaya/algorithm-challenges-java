@@ -1,4 +1,5 @@
 public static boolean isFactorOfAll(int num, List<Integer> arr) {
+    // if 'num' is divisible by all elements in 'arr'
     for (int i : arr) {
         if (num % i != 0)
             return false;
@@ -7,6 +8,7 @@ public static boolean isFactorOfAll(int num, List<Integer> arr) {
 }
 
 public static boolean isMultipleOfAll(int num, List<Integer> arr) {
+    // if 'num' is a divisor of all elements in 'arr'
     for (int i : arr) {
         if (i % num != 0)
             return false;
