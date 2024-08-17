@@ -18,3 +18,4 @@
 | 014 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true)                            | [BetweenTwoSets.java](./algorithm-challenges-java/BetweenTwoSets.java)                    |
 | 015 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true)                            | [BreakingTheRecords.java](./algorithm-challenges-java/BreakingTheRecords.java)                    |
 | 016 | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true)                            | [SubarrayDivision.java](./algorithm-challenges-java/SubarrayDivision.java)                    |
+| 017 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)                            | [DivisibleSumPairs.java](./algorithm-challenges-java/DivisibleSumPairs.java)                    |
