@@ -20,3 +20,4 @@
 | 016 | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true)                            | [SubarrayDivision.java](./algorithm-challenges-java/SubarrayDivision.java)                    |
 | 017 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)                            | [DivisibleSumPairs.java](./algorithm-challenges-java/DivisibleSumPairs.java)                    |
 | 018 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true)                            | [MigratoryBirds.java](./algorithm-challenges-java/MigratoryBirds.java)                    |
+| 018 | [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true)                            | [BillDivision.java](./algorithm-challenges-java/BillDivision.java)                    |
