@@ -22,3 +22,4 @@
 | 018 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true)                            | [MigratoryBirds.java](./algorithm-challenges-java/MigratoryBirds.java)                    |
 | 018 | [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true)                            | [BillDivision.java](./algorithm-challenges-java/BillDivision.java)                    |
 | 019 | [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true)                            | [SalesByMatch.java](./algorithm-challenges-java/SalesByMatch.java)                    |
+| 020 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)                            | [CatsAndMouse.java](./algorithm-challenges-java/CatsAndMouse.java)                    |
