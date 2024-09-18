@@ -23,3 +23,4 @@
 | 018 | [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true)                            | [BillDivision.java](./algorithm-challenges-java/BillDivision.java)                    |
 | 019 | [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true)                            | [SalesByMatch.java](./algorithm-challenges-java/SalesByMatch.java)                    |
 | 020 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)                            | [CatsAndMouse.java](./algorithm-challenges-java/CatsAndMouse.java)                    |
+| 021 | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true)                            | [CountingValleys.java](./algorithm-challenges-java/CountingValleys.java)                    |
