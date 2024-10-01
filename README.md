@@ -25,4 +25,4 @@
 | 020 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)                            | [CatsAndMouse.java](./algorithm-challenges-java/CatsAndMouse.java)                    |
 | 021 | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true)                            | [CountingValleys.java](./algorithm-challenges-java/CountingValleys.java)                    |
 | 022 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true)                            | [ElectronicsShop.java](./algorithm-challenges-java/ElectronicsShop.java)                    |
-| 022 | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem?isFullScreen=true)                            | [DrawingBook.java](./algorithm-challenges-java/DrawingBook.java)                    |
+| 023 | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem?isFullScreen=true)                            | [DrawingBook.java](./algorithm-challenges-java/DrawingBook.java)                    |
