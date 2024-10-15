@@ -26,3 +26,4 @@
 | 021 | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true)                            | [CountingValleys.java](./algorithm-challenges-java/CountingValleys.java)                    |
 | 022 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true)                            | [ElectronicsShop.java](./algorithm-challenges-java/ElectronicsShop.java)                    |
 | 023 | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem?isFullScreen=true)                            | [DrawingBook.java](./algorithm-challenges-java/DrawingBook.java)                    |
+| 023 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)                            | [TheHurdleRace.java](./algorithm-challenges-java/TheHurdleRace.java)                    |
