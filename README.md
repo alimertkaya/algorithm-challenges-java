@@ -27,3 +27,4 @@
 | 022 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true)                            | [ElectronicsShop.java](./algorithm-challenges-java/ElectronicsShop.java)                    |
 | 023 | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem?isFullScreen=true)                            | [DrawingBook.java](./algorithm-challenges-java/DrawingBook.java)                    |
 | 023 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)                            | [TheHurdleRace.java](./algorithm-challenges-java/TheHurdleRace.java)                    |
+| 024 | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true)                            | [DesignerPDFViewer.java](./algorithm-challenges-java/DesignerPDFViewer.java)                    |
