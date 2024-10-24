@@ -29,3 +29,4 @@
 | 023 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)                            | [TheHurdleRace.java](./algorithm-challenges-java/TheHurdleRace.java)                    |
 | 024 | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true)                            | [DesignerPDFViewer.java](./algorithm-challenges-java/DesignerPDFViewer.java)                    |
 | 025 | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true)                            | [UtopianTree.java](./algorithm-challenges-java/UtopianTree.java)                    |
+| 025 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true)                            | [AngryProfessor.java](./algorithm-challenges-java/AngryProfessor.java)                    |
