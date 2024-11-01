@@ -33,3 +33,4 @@
 | 026 | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true)                            | [BeautifulDaysAtTheMovies.java](./algorithm-challenges-java/BeautifulDaysAtTheMovies.java)                    |
 | 027 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true)                            | [ViralAdvertising.java](./algorithm-challenges-java/ViralAdvertising.java)                    |
 | 028 | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true)                            | [SequenceEquation.java](./algorithm-challenges-java/SequenceEquation.java)                    |
+| 029 | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true)                            | [FindDigits.java](./algorithm-challenges-java/FindDigits.java)                    |
