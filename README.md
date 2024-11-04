@@ -34,3 +34,4 @@
 | 027 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true)                            | [ViralAdvertising.java](./algorithm-challenges-java/ViralAdvertising.java)                    |
 | 028 | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true)                            | [SequenceEquation.java](./algorithm-challenges-java/SequenceEquation.java)                    |
 | 029 | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true)                            | [FindDigits.java](./algorithm-challenges-java/FindDigits.java)                    |
+| 030 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true)                            | [PickingNumbers.java](./algorithm-challenges-java/PickingNumbers.java)                    |
