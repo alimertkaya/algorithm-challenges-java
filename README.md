@@ -36,3 +36,4 @@
 | 029 | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true)                            | [FindDigits.java](./algorithm-challenges-java/FindDigits.java)                    |
 | 030 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true)                            | [PickingNumbers.java](./algorithm-challenges-java/PickingNumbers.java)                    |
 | 031 | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true)                            | [DayOfTheProgrammer.java](./algorithm-challenges-java/DayOfTheProgrammer.java)                    |
+| 032 | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true)                            | [SaveThePrisoner.java](./algorithm-challenges-java/SaveThePrisoner.java)                    |
