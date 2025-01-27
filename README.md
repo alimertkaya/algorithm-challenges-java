@@ -37,3 +37,4 @@
 | 030 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true)                            | [PickingNumbers.java](./algorithm-challenges-java/PickingNumbers.java)                    |
 | 031 | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true)                            | [DayOfTheProgrammer.java](./algorithm-challenges-java/DayOfTheProgrammer.java)                    |
 | 032 | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true)                            | [SaveThePrisoner.java](./algorithm-challenges-java/SaveThePrisoner.java)                    |
+| 033 | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem?isFullScreen=true)                            | [MinimumDistances.java](./algorithm-challenges-java/MinimumDistances.java)                    |
