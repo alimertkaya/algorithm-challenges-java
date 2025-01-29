@@ -38,3 +38,4 @@
 | 031 | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true)                            | [DayOfTheProgrammer.java](./algorithm-challenges-java/DayOfTheProgrammer.java)                    |
 | 032 | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true)                            | [SaveThePrisoner.java](./algorithm-challenges-java/SaveThePrisoner.java)                    |
 | 033 | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem?isFullScreen=true)                            | [MinimumDistances.java](./algorithm-challenges-java/MinimumDistances.java)                    |
+| 034 | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?isFullScreen=true)                            | [JumpingOnTheClouds.java](./algorithm-challenges-java/JumpingOnTheClouds.java)                    |
